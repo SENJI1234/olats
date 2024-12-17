@@ -1,0 +1,59 @@
+img{
+    width: 100px;
+}
+.ones{
+  
+    position:fixed;
+ background-color: rgba(211, 195, 195, 0.7);
+display:none;
+place-items:center;
+
+top:30px;
+padding: 5px;
+left:480px;
+border-radius: 15px;
+text-align: center;
+
+z-index:1000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .two{
+  place-items: center;
+ }
+button{
+    background-color: green;
+    color: white;
+}
+input,select{
+    width: 250px;
+    height: 20px;
+    border: none;
+    margin-bottom: 10px;
+                    
+}
+.close{
+    margin-left: 350px;
+    cursor: pointer;
+    font-size: 30px;
+}

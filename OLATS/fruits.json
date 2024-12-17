@@ -1,0 +1,103 @@
+[
+    
+    {
+        "id": "1",
+        "name": "banana",
+       
+        "img" : "banana.png.png",
+        
+        "price_per_piece": "120",
+        "price_per_kilo": "1",
+        "price": "20"
+        
+
+    },
+    {
+        "id": "2",
+        "name": "apple",
+      
+        "img" : "apple.png",
+        
+       "price_per_piece": "20",
+        "price_per_kilo": "21",
+         "price": "30"
+    },
+    {
+        "id": "3",
+        "name": "guava",
+        
+        "img" : "guava.png",
+          "price_per_piece": "200",
+        "price_per_kilo": "300",
+         "price": "30"
+
+    },
+    {
+        "id": "4",
+        "name": "pineapple",
+       
+        "img" : "pineapple.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "35"
+
+    },
+    {
+        "id": "5",
+        "name": "durian",
+      
+        "img" : "durian.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "20"
+
+    },
+    {
+        "id": "6",
+        "name": "coconut",
+       
+        "img" : "coconut.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "40"
+
+    },
+    {
+        "id": "7",
+        "name": "avocado",
+       
+        "img" : "avocado.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "40"
+
+    },
+    {
+        "id": "8",
+        "name": "cherry",
+      
+        "img" : "cherry.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "200", "price": "50"
+
+    },
+    {
+        "id": "9",
+        "name": "grapes",
+       
+        "img" : "grapes.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "20"
+
+    },
+    {
+        "id": "10",
+        "name": "lemon",
+       
+        "img" : "lemon.png",
+          "price_per_piece": "300",
+        "price_per_kilo": "300", "price": "30"
+        
+
+    }
+   
+
+
+
+]
